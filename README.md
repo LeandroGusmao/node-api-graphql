@@ -1,1 +1,1 @@
-# node-api-graphql
+# simple node-api-graphql
